@@ -1,1 +1,6 @@
 payload:
+  - PROCESS-NAME,WeChat
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,Weixin
+  - PROCESS-NAME,Weixin.exe
+  
