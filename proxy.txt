@@ -4,3 +4,4 @@ payload:
   - DOMAIN,cdn.oaistatic.com
   - DOMAIN,registry-1.docker.io
   - DOMAIN,auth.docker.io
+  - DOMAIN,registry.npmjs.org
