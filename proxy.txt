@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN,www.elastic.co
   - DOMAIN,cdn.oaistatic.com
+  - DOMAIN,registry-1.docker.io
