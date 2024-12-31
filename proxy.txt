@@ -9,3 +9,4 @@ payload:
   - DOMAIN,dash.cloudflare.com
   - DOMAIN,cloudflareinsights.com
   - DOMAIN,challenges.cloudflare.com
+  - DOMAIN,production.cloudflare.docker.com
