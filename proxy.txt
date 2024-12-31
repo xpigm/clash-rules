@@ -8,3 +8,4 @@ payload:
   - DOMAIN,dl-cdn.alpinelinux.org
   - DOMAIN,dash.cloudflare.com
   - DOMAIN,cloudflareinsights.com
+  - DOMAIN,challenges.cloudflare.com
