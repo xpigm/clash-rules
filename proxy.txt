@@ -6,3 +6,4 @@ payload:
   - DOMAIN,auth.docker.io
   - DOMAIN,registry.npmjs.org
   - DOMAIN,dl-cdn.alpinelinux.org
+  - DOMAIN,dash.cloudflare.com
