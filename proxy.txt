@@ -7,3 +7,4 @@ payload:
   - DOMAIN,registry.npmjs.org
   - DOMAIN,dl-cdn.alpinelinux.org
   - DOMAIN,dash.cloudflare.com
+  - DOMAIN,cloudflareinsights.com
