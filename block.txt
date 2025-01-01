@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,hub5btmain.sandai.net
+  - DOMAIN,hub5emu.sandai.net
