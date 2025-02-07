@@ -18,3 +18,21 @@ payload:
   - DOMAIN-SUFFIX,madouqu.com
   - DOMAIN-SUFFIX,cableav.tv
   - DOMAIN-SUFFIX,yesjav.info
+  - DOMAIN-SUFFIX,gg5.co
+  - DOMAIN-SUFFIX,mywife.cc
+  - DOMAIN-SUFFIX,faleno.jp
+  - DOMAIN-SUFFIX,bi-av.com
+  - DOMAIN-SUFFIX,premium-beauty.com
+  - DOMAIN-SUFFIX,miman.jp
+  - DOMAIN-SUFFIX,tameikegoro.jp
+  - DOMAIN-SUFFIX,fitch-av.com
+  - DOMAIN-SUFFIX,befreebe.com
+  - DOMAIN-SUFFIX,muku.tv
+  - DOMAIN-SUFFIX,mko-labo.net
+  - DOMAIN-SUFFIX,av-opera.jp
+  - DOMAIN-SUFFIX,oppai-av.com
+  - DOMAIN-SUFFIX,v-av.com
+  - DOMAIN-SUFFIX,to-satsu.com
+  - DOMAIN-SUFFIX,bibian-av.com
+  - DOMAIN-SUFFIX,honnaka.jp
+  - DOMAIN-SUFFIX,hhh-av.com
