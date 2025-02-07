@@ -10,3 +10,11 @@ payload:
   - DOMAIN,cloudflareinsights.com
   - DOMAIN,challenges.cloudflare.com
   - DOMAIN,production.cloudflare.docker.com
+  - DOMAIN-SUFFIX,freejavbt.com
+  - DOMAIN-SUFFIX,jav321.com
+  - DOMAIN-SUFFIX,avsox.click
+  - DOMAIN-SUFFIX,7mmtv.sx
+  - DOMAIN-SUFFIX,mdpjzip.xyz
+  - DOMAIN-SUFFIX,madouqu.com
+  - DOMAIN-SUFFIX,cableav.tv
+  - DOMAIN-SUFFIX,yesjav.info
