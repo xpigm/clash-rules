@@ -39,3 +39,4 @@ payload:
   - DOMAIN-SUFFIX,hhh-av.com
   - DOMAIN-SUFFIX,krx18.com
   - DOMAIN-SUFFIX,trae.ai
+  - DOMAIN-SUFFIX,cursor.sh
