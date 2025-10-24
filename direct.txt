@@ -5,3 +5,4 @@ payload:
   - PROCESS-NAME,Weixin.exe
   - DOMAIN-SUFFIX,xpigm.com
   - DOMAIN-SUFFIX,iwhere.com
+  - PROCESS-NAME,DingTalk.exe
