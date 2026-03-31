@@ -1,4 +1,6 @@
 payload:
+  - PROCESS-NAME,codex-console-windows-x64
+  - PROCESS-NAME,codex-console-windows-x64.exe
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN,www.elastic.co
   - DOMAIN,cdn.oaistatic.com
