@@ -45,3 +45,4 @@ payload:
   - DOMAIN-SUFFIX,iwantrun.com
   - DOMAIN-SUFFIX,2048.info
   - DOMAIN-SUFFIX,ajianpingce.com
+  - DOMAIN-SUFFIX,btdig.com
