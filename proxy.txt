@@ -47,3 +47,4 @@ payload:
   - DOMAIN-SUFFIX,ajianpingce.com
   - DOMAIN-SUFFIX,btdig.com
   - DOMAIN-SUFFIX,xsijishe.com
+  - DOMAIN-SUFFIX,sjs47.com
