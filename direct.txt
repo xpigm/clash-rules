@@ -5,6 +5,9 @@ payload:
   - PROCESS-NAME,Weixin.exe
   - DOMAIN-SUFFIX,xpigm.com
   - DOMAIN-SUFFIX,iwhere.com
-  - PROCESS-NAME,DingTalk.exe
   - PROCESS-NAME,tailscale.exe
   - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,DingTalk
+  - PROCESS-NAME,DingTalk.exe
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,Thunder.exe
