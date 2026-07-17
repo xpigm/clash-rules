@@ -11,3 +11,4 @@ payload:
   - PROCESS-NAME,DingTalk.exe
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
+  - DOMAIN-SUFFIX,cn.bing.com
