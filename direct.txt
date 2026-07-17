@@ -12,3 +12,4 @@ payload:
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - DOMAIN-SUFFIX,cn.bing.com
+  - DOMAIN-SUFFIX,rewards.bing.com
